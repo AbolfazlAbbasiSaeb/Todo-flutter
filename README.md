@@ -30,4 +30,10 @@ Flutter Setup
 3. Run the app on a connected device or simulator using flutter run command.
 
 ![1](https://user-images.githubusercontent.com/87444842/233796710-9c64da82-775e-44e2-90b0-3e461c437470.png)
-
+![2](https://user-images.githubusercontent.com/87444842/233796722-3875918e-f513-4b23-a41f-c94e6f30bf7a.png)
+![3](https://user-images.githubusercontent.com/87444842/233796723-d96cb1db-ead5-433d-995c-5d4acb61448f.png)
+![4](https://user-images.githubusercontent.com/87444842/233796729-f6dcbed6-79c9-40ac-a639-120a3db432c1.png)
+![5](https://user-images.githubusercontent.com/87444842/233796734-c55bb99e-63bd-4a3e-9d9f-09c26bda6f70.png)
+![6](https://user-images.githubusercontent.com/87444842/233796735-87fb0102-d018-46c4-a2d7-775f3dae35b9.png)
+![7](https://user-images.githubusercontent.com/87444842/233796738-90b40c0f-191a-4353-b49c-20a3c82476a7.png)
+![8](https://user-images.githubusercontent.com/87444842/233796742-82819e8c-13ec-4adb-a521-57e4ac6da391.png)
