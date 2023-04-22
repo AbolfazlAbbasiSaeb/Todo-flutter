@@ -1,0 +1,2 @@
+[05-Mar-2023 14:37:59 Asia/Tehran] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 5.6.40. in /home/abolfa35/api.abolfazlabasi.ir/vendor/composer/platform_check.php on line 25
+[13-Apr-2023 14:41:33 UTC] PHP Fatal error:  Cannot use App\User as User because the name is already in use in /home/abolfa35/api.abolfazlabasi.ir/app/Http/Controllers/APIController.php on line 9
