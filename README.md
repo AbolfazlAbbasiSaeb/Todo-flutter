@@ -29,3 +29,5 @@ Flutter Setup
 2. Install Flutter dependencies using flutter pub get command.
 3. Run the app on a connected device or simulator using flutter run command.
 
+![1](https://user-images.githubusercontent.com/87444842/233796710-9c64da82-775e-44e2-90b0-3e461c437470.png)
+
