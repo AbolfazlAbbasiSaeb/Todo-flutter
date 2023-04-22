@@ -6,3 +6,10 @@ The Flutter app is located in the flutter_app directory. It uses the Flutter fra
 
 To run the Flutter app, you need to have Flutter installed on your machine. 
 Prerequisites
+
+Before getting started, make sure that you have the following installed on your system:
+
+PHP (version 7.3 or higher)
+Composer
+MySQL or another relational database
+Flutter SDK
